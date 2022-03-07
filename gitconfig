@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = loic.morel@gmail.com
+	name = Loic Morel
